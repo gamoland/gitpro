@@ -1,5 +1,5 @@
 public class gamoland {
-    public void cheer(){
-        System.out.println("Unikorns");
+    public void cheer(String name){
+        System.out.println("Hello " + name);
     }
 }

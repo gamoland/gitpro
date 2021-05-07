@@ -1,7 +1,7 @@
 public class Main {
 
 
-    public void greet(){
-        System.out.println("Edina");
+    public void greet(String text){
+        System.out.println(text);
     }
 }

@@ -1,6 +1,6 @@
 public class Count {
 
-    public void count() {
-        System.out.println("7");
+    public void count(Integer number) {
+        System.out.println("Counting the countless" + number);
     }
 }

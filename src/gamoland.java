@@ -4,8 +4,7 @@ public class gamoland {
         String adjective = "beautiful";
         cheer(name, adjective);
     }
-
-    public static void cheer(String name, String adjective) {
-        System.out.println("Hello " + adjective + name );
+public void cheer(String name){
+        System.out.println("Cheer for the " + name);
     }
 }

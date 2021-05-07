@@ -6,6 +6,6 @@ public class gamoland {
     }
 
     public static void cheer(String name, String adjective) {
-        System.out.println("Hello " + adjective + name);
+        System.out.println("Hello " + adjective + name );
     }
 }

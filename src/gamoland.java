@@ -5,6 +5,7 @@ public class gamoland {
         cheer(name, adjective);
     }
 public void cheer(String name){
-        System.out.println("Cheer for the " + name);
+        System.out.println("Greetings for the " + name);
+
     }
 }

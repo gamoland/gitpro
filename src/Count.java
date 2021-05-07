@@ -1,6 +1,8 @@
 public class Count {
 
+    private int age = 32;
+
     public void count() {
-        System.out.println("32");
+        System.out.println(age);
     }
 }
